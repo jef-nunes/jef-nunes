@@ -2,6 +2,8 @@
 [![Linux](https://skillicons.dev/icons?i=linux)](https://skillicons.dev)
 [![Python](https://skillicons.dev/icons?i=py)](https://skillicons.dev)
 [![HTML](https://skillicons.dev/icons?i=html)](https://skillicons.dev)
+[![HTML](https://skillicons.dev/icons?i=css)](https://skillicons.dev)
+[![HTML](https://skillicons.dev/icons?i=js)](https://skillicons.dev)
 ###     Gists
   [gist.github.com/jef-nunes](https://gist.github.com/jef-nunes/)<br><br>
 
