@@ -3,8 +3,9 @@
 [![Python](https://skillicons.dev/icons?i=py)](https://skillicons.dev)
 [![Django](https://skillicons.dev/icons?i=django)](https://skillicons.dev)
 [![HTML](https://skillicons.dev/icons?i=html)](https://skillicons.dev)
-[![HTML](https://skillicons.dev/icons?i=css)](https://skillicons.dev)
-[![HTML](https://skillicons.dev/icons?i=js)](https://skillicons.dev)
+[![CSS](https://skillicons.dev/icons?i=css)](https://skillicons.dev)
+[![JavaScript](https://skillicons.dev/icons?i=js)](https://skillicons.dev)
+[![Electron](https://skillicons.dev/icons?i=electron)](https://skillicons.dev)
 ###     Gists
   [gist.github.com/jef-nunes](https://gist.github.com/jef-nunes/)<br><br>
 
