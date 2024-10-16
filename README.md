@@ -2,7 +2,6 @@
 [![Linux](https://skillicons.dev/icons?i=linux)](https://skillicons.dev)
 [![Bash](https://skillicons.dev/icons?i=bash)](https://skillicons.dev)
 [![Python](https://skillicons.dev/icons?i=py)](https://skillicons.dev)
-[![Django](https://skillicons.dev/icons?i=django)](https://skillicons.dev)
 [![HTML](https://skillicons.dev/icons?i=html)](https://skillicons.dev)
 [![CSS](https://skillicons.dev/icons?i=css)](https://skillicons.dev)
 [![TypeScript](https://skillicons.dev/icons?i=ts)](https://skillicons.dev)
