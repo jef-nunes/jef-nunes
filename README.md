@@ -3,12 +3,11 @@
 [![Bash](https://skillicons.dev/icons?i=bash)](https://www.gnu.org/software/bash/)
 [![MySQL](https://skillicons.dev/icons?i=mysql)](https://www.mysql.com)
 [![SQLite](https://skillicons.dev/icons?i=sqlite)](https://www.sqlite.org)
-[![Python](https://skillicons.dev/icons?i=py)](https://www.python.org)
+[![Python](https://skillicons.dev/icons?i=py)](https://www.python.org)<br>
 [![HTML](https://skillicons.dev/icons?i=html)](https://developer.mozilla.org/en-US/docs/Web/HTML)
 [![CSS](https://skillicons.dev/icons?i=css)](https://developer.mozilla.org/en-US/docs/Web/CSS)
 [![TypeScript](https://skillicons.dev/icons?i=typescript)](https://www.typescriptlang.org)
-[![VSCode](https://skillicons.dev/icons?i=vscode)](https://code.visualstudio.com/)
-[![Git](https://skillicons.dev/icons?i=git)](https://git-scm.com/)
-###  Gists
+
+### Gists
   [gist.github.com/jef-nunes](https://gist.github.com/jef-nunes/)<br><br>
   
