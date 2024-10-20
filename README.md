@@ -8,6 +8,7 @@
 [![CSS](https://skillicons.dev/icons?i=css)](https://developer.mozilla.org/en-US/docs/Web/CSS)
 [![TypeScript](https://skillicons.dev/icons?i=typescript)](https://www.typescriptlang.org)
 <br>
+[![VSCode](https://skillicons.dev/icons?i=vscode)](https://code.visualstudio.com/)
 [![Git](https://skillicons.dev/icons?i=git)](https://git-scm.com/)
 ###  Gists
   [gist.github.com/jef-nunes](https://gist.github.com/jef-nunes/)<br><br>
