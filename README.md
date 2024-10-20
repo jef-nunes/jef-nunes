@@ -10,4 +10,6 @@
 
 ### Gists
   [gist.github.com/jef-nunes](https://gist.github.com/jef-nunes/)<br><br>
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jef-nunes&hide_progress=true&hide_border=true&theme=apprentice)
   
