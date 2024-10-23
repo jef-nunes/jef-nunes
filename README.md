@@ -11,5 +11,5 @@
   [gist.github.com/jef-nunes](https://gist.github.com/jef-nunes/)<br><br>
 
 ### Language stats
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jef-nunes&hide_pro&langs_count=5&hide=html,css,portugol&hide_border=true&theme=vue-dark&layout=compact&hide_title=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jef-nunes&hide_pro&langs_count=5&hide=html,css,portugol&hide_border=true&theme=gotham&layout=compact&hide_title=true)
   
