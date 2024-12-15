@@ -5,7 +5,7 @@ Neste perfil estarei postando alguns projetos pessoais e de aprendizado. <br><br
 ### Skills
 
 #### Linguagens:<br>
-[![](https://skillicons.dev/icons?i=bash,python,java,javascript,typescript&theme=dark)](https://skillicons.dev)
+[![](https://skillicons.dev/icons?i=bash,python,java,javascript&theme=dark)](https://skillicons.dev)
 
 #### Banco de dados:<br>
 [![](https://skillicons.dev/icons?i=mysql,sqlite&theme=dark)](https://skillicons.dev)
