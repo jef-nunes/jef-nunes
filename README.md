@@ -4,6 +4,9 @@ Neste perfil estarei postando alguns projetos pessoais e de aprendizado. <br><br
 
 ### Skills
 
+#### Sistemas Operacionais:<br>
+[![](https://skillicons.dev/icons?i=linux,windows&theme=dark)](https://skillicons.dev)
+
 #### Linguagens:<br>
 [![](https://skillicons.dev/icons?i=bash,python,java,javascript&theme=dark)](https://skillicons.dev)
 
