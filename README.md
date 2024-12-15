@@ -2,12 +2,12 @@
 Atualmente sou estudante de Desenvolvimento de Sistemas. <br>
 Neste perfil estarei postando alguns projetos pessoais e de aprendizado. <br><br>
 
-Habilidades com tecnologias:
+### Skills
 
-Linguagens
+Linguagens:<br>
 
 
-IDE
+IDE:<br>
 <a href="https://www.eclipse.org" target="_blank"><img src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white" alt="Eclipse Badge"/></a><a href="https://code.visualstudio.com/" target="_blank"><img src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" alt="VS Code Badge" /></a><a href="https://www.vim.org" target="_blank"><img src="https://img.shields.io/badge/VIM-%2311AB00.svg?&style=for-the-badge&logo=vim&logoColor=white" alt="Vim Badge" /></a>
 
 
