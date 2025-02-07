@@ -3,10 +3,11 @@ Atualmente sou estudante de Desenvolvimento de Sistemas. <br>
 Neste perfil estarei postando alguns projetos pessoais e de aprendizado. <br><br>
 
 ### Gists
+Trechos de códigos e comandos
 [https://gist.github.com/jef-nunes](https://gist.github.com/jef-nunes)
 
 ### Skills
-
+Habilidades com tecnologias específicas
 #### Linguagens:<br>
 [![](https://skillicons.dev/icons?i=bash,cs,java,javascript,python&theme=dark)](https://skillicons.dev)
 
