@@ -6,6 +6,8 @@ Neste perfil estarei postando alguns projetos pessoais e de aprendizado. <br><br
 Trechos de códigos e comandos
 [https://gist.github.com/jef-nunes](https://gist.github.com/jef-nunes)
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jef-nunes&layout=donut&hide=html,css,makefile,markdown&langs_count=5&custom_title=Linguagens%20mais%20utilizadas&title_color=ffffff&bg_color=091422&text_color=fefefe&border_color=053a80&size_weight=0.5&count_weight=0.5)
+
 ### Skills
 Habilidades com tecnologias específicas
 #### Linguagens:<br>
@@ -16,7 +18,3 @@ Habilidades com tecnologias específicas
 
 #### IDEs:<br>
 [![](https://skillicons.dev/icons?i=eclipse,vscode,vim&theme=dark)](https://skillicons.dev)
-
-
-
-<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jef-nunes&layout=donut&hide=html,css,makefile,markdown&langs_count=5&custom_title=Linguagens%20mais%20utilizadas&title_color=ffffff&bg_color=091422&text_color=fefefe&border_color=053a80&size_weight=0.5&count_weight=0.5) -->
