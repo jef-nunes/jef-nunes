@@ -6,7 +6,7 @@ Neste perfil estarei postando alguns projetos pessoais e de aprendizado. <br><br
 
 ### Gists
 [https://gist.github.com/jef-nunes](https://gist.github.com/jef-nunes)
-
+<!--
 ### Skills
 Habilidades com tecnologias específicas
 #### Linguagens:<br>
@@ -16,4 +16,4 @@ Habilidades com tecnologias específicas
 [![](https://skillicons.dev/icons?i=mysql,sqlite&theme=dark)](https://skillicons.dev)
 
 #### IDEs:<br>
-[![](https://skillicons.dev/icons?i=eclipse,vscode,vim&theme=dark)](https://skillicons.dev)
+[![](https://skillicons.dev/icons?i=eclipse,vscode,vim&theme=dark)](https://skillicons.dev) -->
