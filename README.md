@@ -4,7 +4,7 @@ Neste perfil estarei postando alguns projetos pessoais e de aprendizado. <br><br
 
 <!-- [Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jef-nunes&layout=donut&hide=html,css,makefile,markdown&langs_count=5&custom_title=Linguagens%20mais%20utilizadas&title_color=ffffff&bg_color=011222&text_color=57d5ff&border_color=1686a8&size_weight=0.5&count_weight=0.5)
 -->
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jef-nunes&layout=donut&hide=html,css,makefile,markdown&langs_count=5&custom_title=Linguagens%20mais%20utilizadas&title_color=ffffff&bg_color=151515&text_color=57d5ff&border_color=f5f5f5&size_weight=0.5&count_weight=0.5)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jef-nunes&layout=donut&hide=html,css,makefile,markdown&langs_count=5&custom_title=Linguagens%20mais%20utilizadas&title_color=ffffff&bg_color=151515&text_color=fafafa&border_color=f5f5f5&size_weight=0.5&count_weight=0.5)
 
 ### Gists
 [https://gist.github.com/jef-nunes](https://gist.github.com/jef-nunes)
