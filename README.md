@@ -6,7 +6,7 @@ Neste perfil estarei postando alguns projetos pessoais e de aprendizado. <br><br
 -->
 ### Gists
 [https://gist.github.com/jef-nunes](https://gist.github.com/jef-nunes)
-<br><br><br><br>
+<br><br>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jef-nunes&layout=donut&hide=html,css,makefile,markdown,portugol&langs_count=7&custom_title=Estatisticas%20de%20Linguagens&title_color=ffffff&bg_color=151518&text_color=fafafa&border_color=cccccc&size_weight=0.5&count_weight=0.5)
 
 <!--
