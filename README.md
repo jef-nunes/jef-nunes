@@ -15,5 +15,5 @@ Neste perfil estarei postando alguns projetos pessoais e de aprendizado. <br><br
 #### Banco de dados:<br>
 [![](https://skillicons.dev/icons?i=mysql,sqlite&theme=dark)](https://skillicons.dev)
 #### IDEs:<br>
-[![](https://skillicons.dev/icons?i=eclipse,vscode,neovim&theme=dark)](https://skillicons.dev)
+[![](https://skillicons.dev/icons?i=neovim,vscode,eclipse&theme=dark)](https://skillicons.dev)
 
