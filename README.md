@@ -9,7 +9,6 @@ Neste perfil estarei postando alguns projetos pessoais e de aprendizado. <br><br
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jef-nunes&layout=donut&hide=html,css,makefile,markdown,portugol&langs_count=7&custom_title=Estatisticas%20de%20Linguagens&title_color=ffffff&bg_color=151518&text_color=fafafa&border_color=cccccc&size_weight=0.5&count_weight=0.5)
 -->
 
-<!--
 ### Skills
 #### Linguagens:<br>
 [![](https://skillicons.dev/icons?i=bash,cs,java,javascript,python&theme=dark)](https://skillicons.dev)
@@ -17,16 +16,4 @@ Neste perfil estarei postando alguns projetos pessoais e de aprendizado. <br><br
 [![](https://skillicons.dev/icons?i=mysql,sqlite&theme=dark)](https://skillicons.dev)
 #### IDEs:<br>
 [![](https://skillicons.dev/icons?i=eclipse,vscode,vim&theme=dark)](https://skillicons.dev)
--->
-### Skills
-Linguagens <br>
-![](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-
-Banco de dados <br>
-![](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
-
-IDEs <br>
-![](https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the-badge&logo=neovim&logoColor=white)
-![](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
-![](https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white)
 
