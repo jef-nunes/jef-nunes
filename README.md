@@ -19,12 +19,12 @@ Neste perfil estarei postando alguns projetos pessoais e de aprendizado. <br><br
 [![](https://skillicons.dev/icons?i=eclipse,vscode,vim&theme=dark)](https://skillicons.dev)
 -->
 ### Skills
-Linguagens
+Linguagens <br>
 ![](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 
-Banco de dados
+Banco de dados <br>
 ![](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 
-IDEs
+IDEs <br>
 ![](https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the-badge&logo=neovim&logoColor=white)
 
