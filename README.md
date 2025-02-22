@@ -18,4 +18,5 @@ Neste perfil estarei postando alguns projetos pessoais e de aprendizado. <br><br
 #### IDEs:<br>
 [![](https://skillicons.dev/icons?i=eclipse,vscode,vim&theme=dark)](https://skillicons.dev)
 -->
+[![](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)](https://www.mysql.com/)
 
