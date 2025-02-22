@@ -13,7 +13,7 @@ Neste perfil estarei postando alguns projetos pessoais e de aprendizado. <br><br
 
 
 ### Skills
-Habilidades com tecnologias específicas
+<!-- Habilidades com tecnologias específicas -->
 #### Linguagens:<br>
 [![](https://skillicons.dev/icons?i=bash,cs,java,javascript,python&theme=dark)](https://skillicons.dev)
 #### Banco de dados:<br>
