@@ -11,7 +11,7 @@
 <br><br>
 
 <h3 align="center">Gists</h3>
-<span align="center">https://gist.github.com/jef-nunes</span>
+<p align="center">https://gist.github.com/jef-nunes</p>
 
 <!--
 **jef-nunes/jef-nunes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
