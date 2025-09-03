@@ -4,7 +4,7 @@
 
 <div align="center">
   
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,nodejs,react,java,spring,mysql,php,python,bash&theme=dark)](https://github.com/jef-nunes?tab=repositories)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,nodejs,react,electron,java,spring,mysql,php,python,bash&theme=dark)](https://github.com/jef-nunes?tab=repositories)
 
 </div>
 
