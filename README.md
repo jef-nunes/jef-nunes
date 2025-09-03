@@ -4,7 +4,7 @@
 
 <div align="center">
   
-[![Tecnologias](https://skillicons.dev/icons?i=java,spring,mysql,php,python,bash,html,css,js,react&theme=dark&perline=5)](https://github.com/jef-nunes?tab=repositories)
+[![Tecnologias](https://skillicons.dev/icons?i=java,spring,mysql,python,bash,php,html,css,js,react&theme=dark&perline=5)](https://github.com/jef-nunes?tab=repositories)
 
 <br><br>
 
