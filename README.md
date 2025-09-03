@@ -3,6 +3,8 @@
 
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,nodejs,react,java,spring,mysql,php,python,bash&theme=dark)](https://github.com/jef-nunes?tab=repositories)
 
+<br><br>
+
 ## Gists
 https://gist.github.com/jef-nunes
 
