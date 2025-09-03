@@ -1,10 +1,10 @@
 <h1 align="center">Bem vindo(a)</h1><br>
 
-<h3 align="center">Tecnologias utilizadas em projetos</h3><br>
+<h3 align="center">Algumas tecnologias que utilizo em projetos</h3><br>
 
 <div align="center">
   
-[![My Skills](https://skillicons.dev/icons?i=java,spring,mysql,php,python,linux,bash,html,css,js,nodejs,react,electron&perline=7&theme=dark)](https://github.com/jef-nunes?tab=repositories)
+[![My Skills](https://skillicons.dev/icons?i=java,spring,mysql,php,python,bash,html,css,js,react&theme=dark)](https://github.com/jef-nunes?tab=repositories)
 
 </div>
 
