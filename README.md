@@ -1,11 +1,11 @@
 <h1 align="center">Bem vindo(a)</h1><br>
-<h3>Estou desenvolvendo projetos com diferentes tecnologias:</h3><br>
+<h3>Estou desenvolvendo projetos com diferentes tecnologias</h3><br>
 
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,nodejs,react,java,spring,mysql,php,python,bash&theme=dark)](https://github.com/jef-nunes?tab=repositories)
 
 <br><br>
 
-## Gists
+<h3>Gists</h3>
 https://gist.github.com/jef-nunes
 
 <!--
