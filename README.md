@@ -1,5 +1,5 @@
 <h1 align="center">Bem vindo(a)</h1><br>
-<h3>Estou desenvolvendo projetos com diferentes tecnologias:</h3>
+<h3>Estou desenvolvendo projetos com diferentes tecnologias:</h3><br>
 
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,nodejs,react,java,spring,mysql,php,python,bash&theme=dark)](https://github.com/jef-nunes?tab=repositories)
 
