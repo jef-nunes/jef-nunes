@@ -1,5 +1,6 @@
 <h1 align="center">Bem vindo(a)</h1><br>
-<h3>Estou desenvolvendo projetos com diferentes tecnologias</h3><br>
+
+<h3 align="center">Estou desenvolvendo projetos com diferentes tecnologias</h3><br>
 
 <div align="center">
   
@@ -9,8 +10,8 @@
 
 <br><br>
 
-<h3>Gists</h3>
-https://gist.github.com/jef-nunes
+<h3 align="center">Gists</h3>
+<span align="center">https://gist.github.com/jef-nunes</span>
 
 <!--
 **jef-nunes/jef-nunes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
