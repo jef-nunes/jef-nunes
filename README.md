@@ -10,7 +10,7 @@
 
 <h3 align="center">Linguagens mais utilizadas</h3>
 
-[![Linguagens mais utilizadas](https://github-readme-stats.vercel.app/api/top-langs/?username=jef-nunes&layout=donut&hide=css,html&theme=blueberry&bg_color=11161c&hide_border=true&hide_title=true)](https://github.com/jef-nunes?tab=repositories)
+[![Linguagens mais utilizadas](https://github-readme-stats.vercel.app/api/top-langs/?username=jef-nunes&layout=donut&hide=css,html&text_color=ffffff&bg_color=11161c&hide_border=true&hide_title=true)](https://github.com/jef-nunes?tab=repositories)
 
 </div>
 
