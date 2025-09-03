@@ -6,7 +6,9 @@
   
 [![Tecnologias](https://skillicons.dev/icons?i=java,spring,mysql,php,python,bash,html,css,js,react&theme=dark)](https://github.com/jef-nunes?tab=repositories)
 
-[![Linguagens mais utilizadas](https://github-readme-stats.vercel.app/api/top-langs/?username=jef-nunes&layout=donut&hide=css,html&theme=blueberry&hide_border=true)](https://github.com/jef-nunes?tab=repositories)
+<h3 align="center">Linguagens mais utilizadas</h3>
+
+[![Linguagens mais utilizadas](https://github-readme-stats.vercel.app/api/top-langs/?username=jef-nunes&layout=donut&hide=css,html&theme=blueberry&hide_border=true&hide_title=true)](https://github.com/jef-nunes?tab=repositories)
 
 </div>
 
