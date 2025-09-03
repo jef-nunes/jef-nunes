@@ -10,7 +10,7 @@
 
 <br><br>
 
-<h2 align="center">Gists</h2>
+<h3 align="center">Gists</h3>
 <p align="center">https://gist.github.com/jef-nunes</p>
 
 <!--
