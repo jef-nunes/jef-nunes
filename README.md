@@ -6,12 +6,6 @@
   
 [![Tecnologias](https://skillicons.dev/icons?i=java,spring,mysql,python,bash,php,html,css,js,react&theme=dark&perline=5)](https://github.com/jef-nunes?tab=repositories)
 
-<br><br>
-
-<h3 align="center">Linguagens mais utilizadas</h3>
-
-[![Linguagens mais utilizadas](https://github-readme-stats.vercel.app/api/top-langs/?username=jef-nunes&layout=donut&hide=css,html&text_color=ffffff&bg_color=11161c&hide_border=true&hide_title=true)](https://github.com/jef-nunes?tab=repositories)
-
 </div>
 
 
