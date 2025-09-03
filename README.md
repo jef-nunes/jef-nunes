@@ -1,6 +1,6 @@
 <h1 align="center">Bem vindo(a)</h1>
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,nodejs,react,java,spring,mysql,php,python,bash&theme=dark)](https://github.com/jef-nunes)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,nodejs,react,java,spring,mysql,php,python,bash&theme=dark)](https://github.com/jef-nunes?tab=repositories)
 
 ## Gists
 https://gist.github.com/jef-nunes
