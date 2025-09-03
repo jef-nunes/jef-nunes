@@ -4,11 +4,7 @@
 
 <div align="center">
   
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,nodejs,react,electron&theme=dark)](https://github.com/jef-nunes?tab=repositories)
-
-<br>
-
-[![My Skills](https://skillicons.dev/icons?i=java,spring,mysql,php,python,linux,bash&theme=dark)](https://github.com/jef-nunes?tab=repositories)
+[![My Skills](https://skillicons.dev/icons?i=java,spring,mysql,php,python,linux,bash,html,css,js,nodejs,react,electron&perline=7&theme=dark)](https://github.com/jef-nunes?tab=repositories)
 
 </div>
 
