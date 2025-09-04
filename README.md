@@ -1,6 +1,6 @@
 <h1 align="center">Bem vindo(a)</h1><br>
 
-<h3 align="center">Algumas tecnologias que utilizo em projetos</h3><br>
+<h3 align="center">Algumas das tecnologias que utilizo em projetos</h3><br>
 
 <div align="center">
   
