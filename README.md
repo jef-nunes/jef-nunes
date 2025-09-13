@@ -2,11 +2,18 @@
 
 
 <div align="center">
-<h3>Skills</h3>
   
+<h2>Skills</h2>
+
+<h3>Linguagens</h3>  
+
 [![Linguagens](https://skillicons.dev/icons?i=java,python,php,js&theme=dark)](https://github.com/jef-nunes?tab=repositories)
 
+<h3>Frameworks</h3>
+
 [![Frameworks](https://skillicons.dev/icons?i=spring,react&theme=dark)](https://github.com/jef-nunes?tab=repositories)
+
+<h3>Outras</h3>
 
 [![Outras](https://skillicons.dev/icons?i=bash,docker,mysql&theme=dark)](https://github.com/jef-nunes?tab=repositories)
 
