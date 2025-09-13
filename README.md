@@ -6,9 +6,9 @@
   
 [![Backend](https://skillicons.dev/icons?i=java,spring,python,php,mysql&theme=light)](https://github.com/jef-nunes?tab=repositories)
 
-[![Frontend](https://skillicons.dev/icons?i=html,css,js,react&theme=light)](https://github.com/jef-nunes?tab=repositories)
+[![Frontend](https://skillicons.dev/icons?i=html,css,js,react&theme=dark)](https://github.com/jef-nunes?tab=repositories)
 
-[![Outras](https://skillicons.dev/icons?i=bash,docker&theme=light)](https://github.com/jef-nunes?tab=repositories)
+[![Outras](https://skillicons.dev/icons?i=bash,docker&theme=dark)](https://github.com/jef-nunes?tab=repositories)
 
 </div>
 
