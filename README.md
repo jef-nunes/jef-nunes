@@ -4,11 +4,11 @@
 <div align="center">
 <h3>Skills</h3>
   
-[![Backend](https://skillicons.dev/icons?i=java,spring,python,php,mysql&theme=dark)](https://github.com/jef-nunes?tab=repositories)
+[![Linguagens](https://skillicons.dev/icons?i=java,python,php,js&theme=dark)](https://github.com/jef-nunes?tab=repositories)
 
-[![Frontend](https://skillicons.dev/icons?i=html,css,js,react&theme=dark)](https://github.com/jef-nunes?tab=repositories)
+[![Frameworks](https://skillicons.dev/icons?i=spring,react&theme=dark)](https://github.com/jef-nunes?tab=repositories)
 
-[![Outras](https://skillicons.dev/icons?i=bash,docker&theme=dark)](https://github.com/jef-nunes?tab=repositories)
+[![Outras](https://skillicons.dev/icons?i=bash,docker,mysql&theme=dark)](https://github.com/jef-nunes?tab=repositories)
 
 </div>
 
