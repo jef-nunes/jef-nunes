@@ -4,7 +4,7 @@
 <div align="center">
 <h3>Skills</h3>
   
-[![Backend](https://skillicons.dev/icons?i=java,spring,python,php,mysql&theme=light)](https://github.com/jef-nunes?tab=repositories)
+[![Backend](https://skillicons.dev/icons?i=java,spring,python,php,mysql&theme=dark)](https://github.com/jef-nunes?tab=repositories)
 
 [![Frontend](https://skillicons.dev/icons?i=html,css,js,react&theme=dark)](https://github.com/jef-nunes?tab=repositories)
 
