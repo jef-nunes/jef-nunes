@@ -1,1 +1,1 @@
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jef-nunes&layout=donut&hide=html,css&theme=apprentice&hide_border=true&stats_format=bytes)](https://github.com/jef-nunes?tab=repositories)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jef-nunes&hide=html,css&theme=apprentice&hide_border=true&stats_format=bytes)](https://github.com/jef-nunes?tab=repositories)
