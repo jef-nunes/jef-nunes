@@ -5,5 +5,3 @@
 ## Estatísticas
 
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jef-nunes&show_icons=true&theme=blueberry&hide_border=true&locale=pt-br&include_all_commits=true&hide_title=true)](https://github.com/jef-nunes?tab=repositories)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jef-nunes&theme=blueberry&hide_border=true&stats_format=bytes&hide_title=true&langs_count=3&layout=donut)](https://github.com/jef-nunes?tab=repositories)
