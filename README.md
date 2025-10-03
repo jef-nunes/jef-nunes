@@ -5,3 +5,5 @@
 ## Estatísticas
 
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jef-nunes&show_icons=true&theme=react&hide_border=true&locale=pt-br)](https://github.com/jef-nunes?tab=repositories)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jef-nunes&theme=react&hide_border=true)](https://github.com/jef-nunes?tab=repositories)
