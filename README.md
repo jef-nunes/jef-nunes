@@ -5,3 +5,6 @@
 ## Estatísticas
 
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jef-nunes&show_icons=true&theme=github_dark&hide_border=true&locale=pt-br&include_all_commits=true&hide_title=true&hide_rank=true)](https://github.com/jef-nunes?tab=repositories)
+
+## Gists
+https://gist.github.com/jef-nunes
