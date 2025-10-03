@@ -4,4 +4,4 @@
 
 ## Estatísticas
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jef-nunes&show_icons=true&theme=gotham&hide_border=true&locale=pt-br&include_all_commits=true&hide_title=true)](https://github.com/jef-nunes?tab=repositories)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jef-nunes&show_icons=true&theme=gotham&hide_border=true&locale=pt-br&include_all_commits=true&hide_title=true&rank_icon=github)](https://github.com/jef-nunes?tab=repositories)
