@@ -4,4 +4,4 @@
 
 ## Estatísticas
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jef-nunes&show_icons=true&theme=react)](https://github.com/jef-nunes?tab=repositories)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jef-nunes&show_icons=true&theme=react&hide_border=true)](https://github.com/jef-nunes?tab=repositories)
