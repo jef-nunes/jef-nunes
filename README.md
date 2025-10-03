@@ -1,3 +1,3 @@
 ## Skills
 
-![]("./images/SkillsTech.png")
+![]("images/SkillsTech.png")
