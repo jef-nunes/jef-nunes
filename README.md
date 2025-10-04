@@ -1,5 +1,5 @@
 ### Sobre
-Desenvolvedor backend. Atualmente focando em projetos Java & Kotlin.
+Desenvolvedor backend, atualmente focando em projetos Java e Kotlin.
 
 ### Skills
 
