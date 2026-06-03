@@ -1,6 +1,6 @@
-<h2 align="center">Olá!</h2>
+<h2>Olá!</h2>
 
-<p align="center">
+<p>
   <img src="./images/icons/java.png" alt="Java" width="36" style="margin: 0" />
   <img src="./images/icons/kotlin.png" alt="Kotlin" width="20" style="margin: 0"/>
   <img src="./images/icons/spring_boot.png" alt="Spring Boot" width="28" style="margin: 0"/>
@@ -15,11 +15,11 @@
   <img src="./images/icons/docker.png" alt="Docker" width="36" style="margin: 0"/>
 </p>
 
-<p align="center"><strong>Confira alguns dos meus projetos:</strong></p>
+<p><strong>Confira alguns dos meus projetos:</strong></p>
 
-<h3 align="center">📊 CargaWin11 (Desktop)</h3>
+<h3>📊 CargaWin11 (Desktop)</h3>
 
-<p align="center">
+<p>
   <img src="./images/previews/cargawin11_01.png" alt="Screenshot CargaWin11" width="400"/>
 </p>
 
