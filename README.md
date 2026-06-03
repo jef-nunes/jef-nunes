@@ -1,6 +1,6 @@
 <h1>Olá!</h1>
 
-<h2>Confira alguns dos meus projetos</h2>
+<p><strong>Confira alguns dos meus projetos:</strong></p>
 
 <h3>📊 CargaWin11 (Desktop)</h3>
 
