@@ -44,7 +44,7 @@
 
 <hr>
 
-<h3>🌳 Projeto Eco (Backend)</h3>
+<h3>🌎 Projeto Eco (Backend)</h3>
 
 <p>
   <strong>Sobre:</strong> Backend para um site sobre desastres naturais e meio ambiente. É composto pela API REST do sistema e o seu banco de dados relacional.
