@@ -72,7 +72,7 @@
 </p>
 <br><br>
 
-<h1>Skills</h1>
+<!--h1>Skills</h1>
 <p>
   <img src="./images/icons/java.png" alt="Java" width="36" style="margin: 0" />
   <img src="./images/icons/kotlin.png" alt="Kotlin" width="20" style="margin: 0"/>
@@ -86,5 +86,5 @@
   <img src="./images/icons/bash.png" alt="Bash" width="28" style="margin: 0"/>
   <img src="./images/icons/linux.png" alt="Linux" width="20" style="margin: 0"/>
   <img src="./images/icons/docker.png" alt="Docker" width="36" style="margin: 0"/>
-</p>
+</p-->
 <br><br>
