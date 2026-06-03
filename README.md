@@ -4,6 +4,7 @@
 
 <p>
   <img src="./images/previews/cargawin11_01.png" alt="Screenshot CargaWin11" width="400"/>
+  <img src="./images/previews/cargawin11_02.gif" alt="GIF CargaWin11" width="400"/>
 </p>
 
 <p>
