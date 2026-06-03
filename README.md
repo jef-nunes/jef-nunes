@@ -19,7 +19,7 @@
 
 <h3 align="center">📊 CargaWin11 (Desktop)</h3>
 
-<p>
+<p align="center">
   <img src="./images/previews/cargawin11_01.png" alt="Screenshot CargaWin11" width="400"/>
 </p>
 
