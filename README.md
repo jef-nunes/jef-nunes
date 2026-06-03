@@ -15,9 +15,9 @@
   <img src="./images/icons/docker.png" alt="Docker" width="36" style="margin: 0"/>
 </p>
 
-<p><strong>Confira alguns dos meus projetos:</strong></p>
+<p align="center"><strong>Confira alguns dos meus projetos:</strong></p>
 
-<h3>📊 CargaWin11 (Desktop)</h3>
+<h3 align="center">📊 CargaWin11 (Desktop)</h3>
 
 <p>
   <img src="./images/previews/cargawin11_01.png" alt="Screenshot CargaWin11" width="400"/>
