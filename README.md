@@ -35,6 +35,7 @@
   <strong>Link:</strong>
   <a href="https://github.com/jef-nunes/CargaWin11">Repositório</a>
 </p>
+<br><br>
 
 <h2>✨ Açaíteria Gourmet (Frontend)</h2>
 
@@ -54,6 +55,7 @@
   <strong>Link:</strong>
   <a href="https://github.com/jef-nunes/frontend-acaiteria-gourmet">Repositório</a>
 </p>
+<br><br>
 
 <h2>🌎 Projeto Eco (Backend)</h2>
 
@@ -69,6 +71,7 @@
   <strong>Link:</strong>
   <a href="https://github.com/jef-nunes/backend-projeto-eco">Repositório</a>
 </p>
+<br><br>
 
 <h3>🛠️ Loja de Materiais (Banco de Dados)</h3>
 
