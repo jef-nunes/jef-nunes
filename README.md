@@ -1,4 +1,4 @@
-<h1>Olá!</h1>
+<h2>Olá!</h2>
 
 <p><strong>Confira alguns dos meus projetos:</strong></p>
 
