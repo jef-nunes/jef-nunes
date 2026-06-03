@@ -1,4 +1,4 @@
-<h2>Olá!</h2>
+<h1>Olá</h1>
 
 <p>
   <img src="./images/icons/java.png" alt="Java" width="36" style="margin: 0" />
@@ -15,9 +15,9 @@
   <img src="./images/icons/docker.png" alt="Docker" width="36" style="margin: 0"/>
 </p>
 
-<p><strong>Confira alguns dos meus projetos:</strong></p>
+<h1>Projetos em destaque</h1>
 
-<h3>📊 CargaWin11 (Desktop)</h3>
+<h2>📊 CargaWin11 (Desktop)</h2>
 
 <p>
   <img src="./images/previews/cargawin11_01.png" alt="Screenshot CargaWin11" width="400"/>
@@ -36,7 +36,7 @@
   <a href="https://github.com/jef-nunes/CargaWin11">Repositório</a>
 </p>
 
-<h3>✨ Açaíteria Gourmet (Frontend)</h3>
+<h2>✨ Açaíteria Gourmet (Frontend)</h2>
 
 <p>
   <img src="./images/previews/acaiteria_gourmet.png" alt="Screenshot Açaíteria Gourmet" width="400"/>
@@ -55,7 +55,7 @@
   <a href="https://github.com/jef-nunes/frontend-acaiteria-gourmet">Repositório</a>
 </p>
 
-<h3>🌎 Projeto Eco (Backend)</h3>
+<h2>🌎 Projeto Eco (Backend)</h2>
 
 <p>
   <strong>Sobre:</strong> Backend para um site sobre desastres naturais e meio ambiente. É composto pela API REST do sistema e o seu banco de dados relacional.
