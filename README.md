@@ -14,17 +14,17 @@
   <strong>Stack:</strong> .NET, C#, Blazor Hybrid, HTML, CSS e JavaScript.
 </p>
 
-<!--p>
+<p>
   <strong>Link:</strong>
   <a href="https://github.com/jef-nunes/CargaWin11">Repositório</a>
-</p-->
+</p>
 <br><br>
 
 <h2>✨ Açaíteria Gourmet (Frontend)</h2>
 
-<p>
-  <!--img src="./images/previews/acaiteria_gourmet.png" alt="Screenshot Açaíteria Gourmet" width="400"/-->
-</p>
+<!--p>
+  <img src="./images/previews/acaiteria_gourmet.png" alt="Screenshot Açaíteria Gourmet" width="400"/>
+</p-->
 
 <p>
   <strong>Sobre:</strong> Frontend institucional para uma loja de açaí gourmet.
@@ -34,10 +34,10 @@
   <strong>Stack:</strong> HTML, CSS e JavaScript.
 </p>
 
-<!--p>
+<p>
   <strong>Link:</strong>
   <a href="https://github.com/jef-nunes/frontend-acaiteria-gourmet">Repositório</a>
-</p-->
+</p>
 <br><br>
 
 <h2>🌎 Projeto Eco (Backend)</h2>
@@ -50,10 +50,10 @@
   <strong>Stack:</strong> Java, Spring Boot e MySQL.
 </p>
 
-<!--p>
+<p>
   <strong>Link:</strong>
   <a href="https://github.com/jef-nunes/backend-projeto-eco">Repositório</a>
-</p-->
+</p>
 <br><br>
 
 <h3>🛠️ Loja de Materiais (Banco de Dados)</h3>
@@ -66,10 +66,10 @@
   <strong>Stack:</strong> MySQL.
 </p>
 
-<!--p>
+<p>
   <strong>Link:</strong>
   <a href="https://github.com/jef-nunes/materiais-db">Repositório</a>
-</p-->
+</p>
 <br><br>
 
 <!--h1>Skills</h1>
@@ -86,4 +86,4 @@
   <img src="./images/icons/bash.png" alt="Bash" width="28" style="margin: 0"/>
   <img src="./images/icons/linux.png" alt="Linux" width="20" style="margin: 0"/>
   <img src="./images/icons/docker.png" alt="Docker" width="36" style="margin: 0"/>
-</p-->
+</p>
