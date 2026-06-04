@@ -1,5 +1,5 @@
 
-<--h2>Skills</h2>
+<h2>Skills</h2>
 <p>
   <img src="./images/icons/java.png" alt="Java" width="36" style="margin: 0" />
   <img src="./images/icons/kotlin.png" alt="Kotlin" width="20" style="margin: 0"/>
