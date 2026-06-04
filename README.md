@@ -27,7 +27,7 @@
 </p-->
 
 <p>
-  <strong>Sobre:</strong> Frontend institucional para uma loja de açaí gourmet.
+  <strong>Sobre:</strong> Frontend institucional para uma açaíteria gourmet.
 </p>
 
 <p>
