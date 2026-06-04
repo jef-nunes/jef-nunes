@@ -10,7 +10,7 @@
   <img src="./images/icons/css.png" alt="CSS" width="28" style="margin: 0"/>
   <img src="./images/icons/javascript.png" alt="JavaScript" width="20" style="margin: 0"/>
   <img src="./images/icons/python.png" alt="Python" width="20" style="margin: 0"/>
-  <img src="./images/icons/bash.png" alt="Bash" width="28" style="margin: 0"/>
-  <img src="./images/icons/linux.png" alt="Linux" width="20" style="margin: 0"/>
+  <img src="./images/icons/bash.png" alt="Bash" width="24" style="margin: 0"/>
+  <img src="./images/icons/linux.png" alt="Linux" width="24" style="margin: 0"/>
   <img src="./images/icons/docker.png" alt="Docker" width="36" style="margin: 0"/>
 </p>
