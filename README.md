@@ -2,9 +2,9 @@
 
 <h2>📊 CargaWin11 (Desktop)</h2>
 
-<p>
+<!--p>
   <img src="./images/previews/cargawin11_01.png" alt="Screenshot CargaWin11" width="400" height="400"/>
-</p>
+</p-->
 
 <p>
   <strong>Sobre:</strong> Aplicação nativa/híbrida para Windows 11 a qual exibe informações em tempo real sobre CPU, memória RAM, armazenamento e rede por meio de uma interface gráfica dinâmica, moderna e personalizável. O usuário pode escolher entre diferentes temas de cores e fontes, além de definir quais cards de informações deseja visualizar no dashboard.
@@ -14,16 +14,16 @@
   <strong>Stack:</strong> .NET, C#, Blazor Hybrid, HTML, CSS e JavaScript.
 </p>
 
-<p>
+<!--p>
   <strong>Link:</strong>
   <a href="https://github.com/jef-nunes/CargaWin11">Repositório</a>
-</p>
+</p-->
 <br><br>
 
 <h2>✨ Açaíteria Gourmet (Frontend)</h2>
 
 <p>
-  <img src="./images/previews/acaiteria_gourmet.png" alt="Screenshot Açaíteria Gourmet" width="400"/>
+  <!--img src="./images/previews/acaiteria_gourmet.png" alt="Screenshot Açaíteria Gourmet" width="400"/-->
 </p>
 
 <p>
@@ -34,10 +34,10 @@
   <strong>Stack:</strong> HTML, CSS e JavaScript.
 </p>
 
-<p>
+<!--p>
   <strong>Link:</strong>
   <a href="https://github.com/jef-nunes/frontend-acaiteria-gourmet">Repositório</a>
-</p>
+</p-->
 <br><br>
 
 <h2>🌎 Projeto Eco (Backend)</h2>
@@ -50,10 +50,10 @@
   <strong>Stack:</strong> Java, Spring Boot e MySQL.
 </p>
 
-<p>
+<!--p>
   <strong>Link:</strong>
   <a href="https://github.com/jef-nunes/backend-projeto-eco">Repositório</a>
-</p>
+</p-->
 <br><br>
 
 <h3>🛠️ Loja de Materiais (Banco de Dados)</h3>
@@ -66,10 +66,10 @@
   <strong>Stack:</strong> MySQL.
 </p>
 
-<p>
+<!--p>
   <strong>Link:</strong>
   <a href="https://github.com/jef-nunes/materiais-db">Repositório</a>
-</p>
+</p-->
 <br><br>
 
 <!--h1>Skills</h1>
