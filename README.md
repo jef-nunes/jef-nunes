@@ -1,6 +1,6 @@
 <h1>Projetos em destaque</h1>
 
-<h2>📊 CargaWin11 (Desktop)</h2>
+<h2>CargaWin11 (Desktop)</h2>
 
 <!--p>
   <img src="./images/previews/cargawin11_01.png" alt="Screenshot CargaWin11" width="400" height="400"/>
@@ -20,7 +20,7 @@
 </p>
 <br><br>
 
-<h2>✨ Açaíteria Gourmet (Frontend)</h2>
+<h2>Açaíteria Gourmet (Frontend)</h2>
 
 <!--p>
   <img src="./images/previews/acaiteria_gourmet.png" alt="Screenshot Açaíteria Gourmet" width="400"/>
@@ -40,7 +40,7 @@
 </p>
 <br><br>
 
-<h2>🌎 Projeto Eco (Backend)</h2>
+<h2>Projeto Eco (Backend)</h2>
 
 <p>
   <strong>Sobre:</strong> Backend para um site sobre desastres naturais e meio ambiente. É composto pela API REST do sistema e o seu banco de dados relacional.
@@ -56,7 +56,7 @@
 </p>
 <br><br>
 
-<h3>🛠️ Loja de Materiais (Banco de Dados)</h3>
+<h3>Loja de Materiais (Banco de Dados)</h3>
 
 <p>
   <strong>Sobre:</strong> Modelagem de dados completa para um sistema de controle de estoque de uma loja de materiais de construção.
